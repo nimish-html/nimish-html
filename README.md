@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nimish-html
 - 👀 I’m interested in marketing and building startups
-- 🌱 I’m currently learning how to code and use AI
-- 📫 How to reach me: nimishg65@gmail.com
-- ⚡ Fun fact: I'm launching 6 startups in 6 months
+- 🌱 I ship open source AI apps
+- 📫 Best way to reach me is through X: https://x.com/AGI_in_2026
+- ⚡ Fun fact: I have a YT channel where I share my learnings: https://www.youtube.com/@nimishgahlot
 
 <!---
 nimish-html/nimish-html is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
