@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nimish-html
 - 👀 I’m interested in marketing and building startups
 - 🌱 I ship open source AI apps
-- 📫 Best way to reach me is through X: https://x.com/AGI_in_2026
+- 📫 Best way to reach me is through X: https://x.com/anthropiast
 - ⚡ Fun fact: I have a YT channel where I share my learnings: https://www.youtube.com/@nimishgahlot
 
 <!---
